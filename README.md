@@ -1,6 +1,6 @@
 # Multivariate Statistical Analysis of Liver Disease Determinants
 
-A comprehensive data science project applying advanced multivariate statistical techniques to analyze and interpret determinants of liver disease.
+A comprehensive project applying advanced multivariate statistical techniques to analyze and interpret determinants of liver disease.
 
 ---
 
